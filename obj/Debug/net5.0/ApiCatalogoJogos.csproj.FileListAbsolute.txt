@@ -27,3 +27,10 @@ D:\Documentos\cursos\bootcamp-DIO\c#\projetos\ApiCatalogoJogos\ApiCatalogoJogos\
 D:\Documentos\cursos\bootcamp-DIO\c#\projetos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ref\ApiCatalogoJogos.dll
 D:\Documentos\cursos\bootcamp-DIO\c#\projetos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.pdb
 D:\Documentos\cursos\bootcamp-DIO\c#\projetos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.genruntimeconfig.cache
+D:\Documentos\cursos\bootcamp-DIO\c#\projetos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Documentos\cursos\bootcamp-DIO\c#\projetos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Documentos\cursos\bootcamp-DIO\c#\projetos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Documentos\cursos\bootcamp-DIO\c#\projetos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Documentos\cursos\bootcamp-DIO\c#\projetos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documentos\cursos\bootcamp-DIO\c#\projetos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documentos\cursos\bootcamp-DIO\c#\projetos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\ApiCatalogoJogos.xml

@@ -43,7 +43,7 @@ namespace ApiCatalogoJogos.Services
             var game = await _gameRepository.FindGamePerId(id);
 
             if (game == null)
-                return null;
+                throw new GameNotRegistredException();
 
             return new GameViewModel
             {
